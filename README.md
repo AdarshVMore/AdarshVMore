@@ -3,14 +3,6 @@
 👨‍💻 **Who am I?**  
 A passionate **Full-Stack Developer** 🌐 and **Blockchain Enthusiast** 🔗 with a knack for building innovative, scalable, and user-friendly solutions. Whether it’s crafting a sleek **React.js** interface or engineering a robust **Node.js** backend, I love turning ideas into reality!  
 
----
-
-✨ **A Few Highlights of My Journey:**  
-- 🏆 **Hackathon Rockstar**: ETHGlobal HackFS 2023 **Semifinalist** for creating **ArtQuire**, a blockchain-powered platform for digital art! 🎨  
-- 💡 **Problem Solver**: Built **Vaanshika**, an online family tree generator to preserve family legacies 🌳.  
-- 💼 **Internships That Shaped Me**:  
-   - **Loop of Infinity**: Integrated payment gateways for crypto exchanges and crafted secure smart contracts.  
-   - **Fliperb**: Led a team to develop an SEO-optimized e-commerce platform with **Stripe** payment integration.  
 
 ---
 
@@ -77,9 +69,6 @@ A passionate **Full-Stack Developer** 🌐 and **Blockchain Enthusiast** 🔗 wi
 💌 **Let’s Connect!**  
 I’m always open to exciting opportunities and collaborations. Let’s innovate together and push the boundaries of what’s possible!  
 
----
-
-## 🌐 Socials:  
 
 <p>
   <a href="https://linkedin.com/in/adarsh-more-08124a223/">
