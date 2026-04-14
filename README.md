@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm **Adarsh V. More** 🚀  
 
 👨‍💻 **Who am I?**  
-A passionate **Full-Stack Developer** 🌐 and **Blockchain Enthusiast** 🔗 with a knack for building innovative, scalable, and user-friendly solutions. Whether it’s crafting a sleek **React.js** interface or engineering a robust **Node.js** backend, I love turning ideas into reality!  
+A  **Full-Stack ** 🌐 and **Blockchain Developer** 🔗 with a knack for building innovative, scalable, and user-friendly solutions. Whether it’s crafting a sleek **React.js** interface or engineering a robust **Node.js** backend, I love turning ideas into reality!  
 
 
 ---
