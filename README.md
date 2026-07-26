@@ -9,15 +9,21 @@ Fullstack engineer solving messier problems, building event-driven systems, real
 ## What I've shipped
 
 **WhiteRock — Perpetual Trading Platform**  
-A paper perps exchange with leverage, margin, auto-liquidation, live Binance index pricing. Custom in-memory matching engine, Redis Streams/Pub-Sub for the event pipeline, WebSocket fanout for order book and trades.  
+A paper perpetual futures exchange with leverage, margin, auto-liquidation and live Binance index pricing. Built around a custom in-memory matching engine, Redis Streams/Pub-Sub event pipeline and WebSocket fanout for real-time order books and trades.  
 [Live](https://perpetual-trading-full-stack-fronte.vercel.app/) · [GitHub](https://github.com/AdarshVMore/Perpetual-Trading-FullStack)
 
 **ReviewPilot — AI Code Reviewer**  
-Reviews GitHub PRs automatically—bugs, code quality, maintainability—using LLM APIs and RAG over an event-driven webhook pipeline with async workers.  
+AI-powered GitHub code reviewer that analyzes pull requests for bugs, performance and maintainability using LLMs, RAG and an event-driven webhook pipeline with asynchronous workers.  
 [Live](https://coderefyn.vercel.app/) · [GitHub](https://github.com/AdarshVMore/AI-Code-Reviewer)
 
-**Capturely** *(at Ellenox)*  
-Real-time virtual photoshoot platform supporting multiple concurrent sessions using React Native and LiveKit/WebRTC.
+**Relocate AI**  
+AI-powered relocation platform that recommends housing and helps users discover nearby places based on their preferences. Winner of CodeBits 3.0 Hackathon.  
+[GitHub](https://github.com/AdarshVMore/Relocate-AI) · [Demo](https://youtu.be/ooou9zVlVJc?si=YXDkgHVE92PpODDK)
+
+**ArtQuire**  
+NFT marketplace built on Polygon with Solidity smart contracts, IPFS-based storage and a React frontend. Winner at ETHGlobal HackFS.  
+[GitHub](https://github.com/AdarshVMore/ArtQuire) · [Demo](https://youtu.be/3wKWwVUjiLw?si=5PF7E93GYVACgfXp)
+
 ---
 
 ## Where I've worked
