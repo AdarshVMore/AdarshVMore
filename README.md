@@ -1,4 +1,4 @@
-# Hey, I'm Adarsh
+# Adarsh this side
 
 > I build software that's easier to use than it is to build.
 
@@ -47,7 +47,7 @@ LLMs, RAG, Function Calling, LiveKit, Voice AI
 
 ## Find me
 
-Portfolio → https://adarshmore.netlify.app
-LinkedIn → https://linkedin.com/in/adarsh-v-more
-Twitter/X → https://x.com/Adarsh_VMore
-Email → adarshv.more18@gmail.com
+-> Portfolio → https://adarshmore.netlify.app
+-> LinkedIn → https://linkedin.com/in/adarsh-v-more
+-> Twitter/X → https://x.com/Adarsh_VMore
+-> Email → adarshv.more18@gmail.com
