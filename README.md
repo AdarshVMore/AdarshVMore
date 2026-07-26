@@ -1,90 +1,53 @@
-# Hi, I'm Adarsh More
+# Hey, I'm Adarsh
 
-> I build software that's easier to use than it is to build.
+I built a perpetual futures exchange with a custom matching engine before I built a landing page for it.
 
-I'm a Full Stack Engineer who enjoys building distributed backend systems, AI products and real-time infrastructure from scratch. Most of what I work on sits somewhere between backend engineering, developer tools and applied AI.
-
-## Experience
-
-**Full Stack Engineer — Ellenox**
-
-Built and shipped production applications including Capturely, a real-time virtual photoshoot platform powered by React Native, LiveKit and WebRTC, along with large frontend modules for healthcare products.
-
-Previously worked on AI products, microservice architectures, blockchain applications and developer tooling.
-
-## Selected Projects
-
-### WhiteRock — Perpetual Trading Platform
-Paper perpetual futures exchange built from scratch.
-
-- Custom in-memory matching engine
-- Redis Streams and Pub/Sub event pipeline
-- WebSocket-based real-time orderbook and trade updates
-- Margin, leverage, liquidation and PnL engine
-- PostgreSQL, Docker, TypeScript
-
-**Live:** https://YOUR_WHITE_ROCK_URL
-
-**Repository:** https://github.com/YOUR_REPO
+Fullstack engineer who ends up gravitating toward the messier problems — event-driven systems, real-time infra, AI pipelines. Currently at Ellenox, building React Native and Next.js products for real users.
 
 ---
 
-### ReviewPilot — AI Code Reviewer
+## What I've shipped
 
-AI-powered GitHub code reviewer that automatically reviews pull requests using LLMs.
+**WhiteRock — Perpetual Trading Platform**
+A paper perps exchange with leverage, margin, auto-liquidation, live Binance index pricing. Custom in-memory matching engine, Redis Streams/Pub-Sub for the event pipeline, WebSocket fanout for order book and trades.
+[Live](#http://perpetual-trading-full-stack-fronte.vercel.app/) · [GitHub](#https://github.com/AdarshVMore/Perpetual-Trading-FullStack)
 
-- GitHub App with webhook architecture
-- Event-driven workers
-- RAG pipeline for repository context
-- Automated review comments on pull requests
-- Dockerized services
+**ReviewPilot — AI Code Reviewer**
+Reviews GitHub PRs automatically — bugs, code quality, maintainability — using LLM APIs and RAG over an event-driven webhook pipeline with async workers.
+[Live](#http://coderefyn.vercel.app/) · [GitHub](#https://github.com/AdarshVMore/AI-Code-Reviewer)
 
-**Live:** https://YOUR_REVIEWPILOT_URL
-
-**Repository:** https://github.com/YOUR_REPO
-
----
-
-### Capturely
-
-Real-time virtual photoshoot platform.
-
-- React Native (Expo)
-- LiveKit (WebRTC)
-- Real-time collaborative sessions
-- State management with Zustand
+**Capturely** (at Ellenox)
+Real-time virtual photoshoot platform, multiple concurrent sessions, React Native + LiveKit/WebRTC.
 
 ---
 
-## Awards
+## Where I've worked
 
-- Winner — CodeBits 3.0 Hackathon
-- Winner — ETHGlobal HackFS
-- Finalist — Web3 INIT
+- **Ellenox** — Fullstack Developer (Jun 2025–present)
+- **AcadeEasy** — Fullstack Dev Intern — rebuilt a monolith into isolated auth/content/analytics microservices, cut deploy overhead 50%
+- **Loop of Infinity** — Frontend & Blockchain Intern — DeFi staking/vesting/token-sale platform, 1000+ users onboarded, $20K+ processed
 
-## Technologies
+---
 
-TypeScript • Node.js • React • Next.js • React Native • Express • PostgreSQL • Redis • Docker • AWS • OpenAI • RAG • LiveKit • WebSockets
+## Wins along the way
 
-## Currently Exploring
+- Winner, CodeBits 3.0 Hackathon — Relocate AI
+- Winner, ETHGlobal HackFS — ArtQuire (NFT marketplace on Polygon)
+- Finalist, Web3 INIT — blockchain medical records
+- President, ASCEE Club · Lead, GDSC
 
-- Agentic AI
-- Code Intelligence
-- Kubernetes
-- Distributed Systems
-- Context Engineering
-- Cloud Infrastructure
+---
 
-## Links
+## Stack
 
-Portfolio: https://adarshmore.netlify.app
+React.js, Next.js, React Native, Node.js, TypeScript, Redis, PostgreSQL, Docker, AWS
+LLMs, RAG, Function Calling, LiveKit, Voice AI
 
-GitHub: https://github.com/AdarshVMore
+---
 
-LinkedIn: https://linkedin.com/in/adarsh-v-more
+## Find me
 
-X: https://x.com/Adarsh_VMore
-
-Resume: https://YOUR_RESUME_URL
-
-Email: adarshv.more18@gmail.com
+Portfolio → https://adarshmore.netlify.app
+LinkedIn → https://linkedin.com/in/adarsh-v-more
+Twitter/X → https://x.com/Adarsh_VMore
+Email → adarshv.more18@gmail.com
