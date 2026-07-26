@@ -12,9 +12,9 @@ Fullstack engineer solving messier problems, building event-driven systems, real
 A paper perpetual futures exchange with leverage, margin, auto-liquidation and live Binance index pricing. Built around a custom in-memory matching engine, Redis Streams/Pub-Sub event pipeline and WebSocket fanout for real-time order books and trades.  
 [Live](https://perpetual-trading-full-stack-fronte.vercel.app/) · [GitHub](https://github.com/AdarshVMore/Perpetual-Trading-FullStack)
 
-**ReviewPilot — AI Code Reviewer**  
+**CodeRefyn — AI Code Reviewer**  
 AI-powered GitHub code reviewer that analyzes pull requests for bugs, performance and maintainability using LLMs, RAG and an event-driven webhook pipeline with asynchronous workers.  
-[Live](https://coderefyn.vercel.app/) · [GitHub](https://github.com/AdarshVMore/AI-Code-Reviewer)
+[Live](https://coderefyn.vercel.app/) · [GitHub](https://github.com/AdarshVMore/AI-Code-Reviewer) · [GitHub Application]()
 
 **Relocate AI**  
 AI-powered relocation platform that recommends housing and helps users discover nearby places based on their preferences. Winner of CodeBits 3.0 Hackathon.  
@@ -25,6 +25,10 @@ NFT marketplace built on Polygon with Solidity smart contracts, IPFS-based stora
 [GitHub](https://github.com/AdarshVMore/ArtQuire) · [Demo](https://youtu.be/3wKWwVUjiLw?si=5PF7E93GYVACgfXp)
 
 ---
+
+<p align="left">
+  <img src="https://giphy.com/gifs/kJ1iL1ZQIyibu" width="850"/>
+</p>
 
 ## Where I've worked
 
