@@ -1,8 +1,8 @@
 # Hey, I'm Adarsh
 
-I built a perpetual futures exchange with a custom matching engine before I built a landing page for it.
+> I build software that's easier to use than it is to build.
 
-Fullstack engineer who ends up gravitating toward the messier problems — event-driven systems, real-time infra, AI pipelines. Currently at Ellenox, building React Native and Next.js products for real users.
+Fullstack engineer solving messier problems, building event-driven systems, real-time infra, AI pipelines. 
 
 ---
 
