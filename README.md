@@ -8,17 +8,16 @@ Fullstack engineer solving messier problems, building event-driven systems, real
 
 ## What I've shipped
 
-**WhiteRock — Perpetual Trading Platform**
-A paper perps exchange with leverage, margin, auto-liquidation, live Binance index pricing. Custom in-memory matching engine, Redis Streams/Pub-Sub for the event pipeline, WebSocket fanout for order book and trades.
-[Live](#http://perpetual-trading-full-stack-fronte.vercel.app/) · [GitHub](#https://github.com/AdarshVMore/Perpetual-Trading-FullStack)
+**WhiteRock — Perpetual Trading Platform**  
+A paper perps exchange with leverage, margin, auto-liquidation, live Binance index pricing. Custom in-memory matching engine, Redis Streams/Pub-Sub for the event pipeline, WebSocket fanout for order book and trades.  
+[Live](https://perpetual-trading-full-stack-fronte.vercel.app/) · [GitHub](https://github.com/AdarshVMore/Perpetual-Trading-FullStack)
 
-**ReviewPilot — AI Code Reviewer**
-Reviews GitHub PRs automatically — bugs, code quality, maintainability — using LLM APIs and RAG over an event-driven webhook pipeline with async workers.
-[Live](#http://coderefyn.vercel.app/) · [GitHub](#https://github.com/AdarshVMore/AI-Code-Reviewer)
+**ReviewPilot — AI Code Reviewer**  
+Reviews GitHub PRs automatically—bugs, code quality, maintainability—using LLM APIs and RAG over an event-driven webhook pipeline with async workers.  
+[Live](https://coderefyn.vercel.app/) · [GitHub](https://github.com/AdarshVMore/AI-Code-Reviewer)
 
-**Capturely** (at Ellenox)
-Real-time virtual photoshoot platform, multiple concurrent sessions, React Native + LiveKit/WebRTC.
-
+**Capturely** *(at Ellenox)*  
+Real-time virtual photoshoot platform supporting multiple concurrent sessions using React Native and LiveKit/WebRTC.
 ---
 
 ## Where I've worked
