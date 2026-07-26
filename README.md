@@ -1,45 +1,90 @@
-# Hey, I'm Adarsh
+# Hi, I'm Adarsh More
 
-I like building software that's a little harder than it probably should be.
+> I build software that's easier to use than it is to build.
 
-Lately I've been spending most of my time building distributed backend systems, AI applications, and real-time products from scratch. I enjoy understanding how things work under the hood—whether that's a matching engine, an LLM workflow, or a distributed event pipeline.
+I'm a Full Stack Engineer who enjoys building distributed backend systems, AI products and real-time infrastructure from scratch. Most of what I work on sits somewhere between backend engineering, developer tools and applied AI.
 
-Currently working as a Full Stack Engineer.
+## Experience
+
+**Full Stack Engineer — Ellenox**
+
+Built and shipped production applications including Capturely, a real-time virtual photoshoot platform powered by React Native, LiveKit and WebRTC, along with large frontend modules for healthcare products.
+
+Previously worked on AI products, microservice architectures, blockchain applications and developer tooling.
+
+## Selected Projects
+
+### WhiteRock — Perpetual Trading Platform
+Paper perpetual futures exchange built from scratch.
+
+- Custom in-memory matching engine
+- Redis Streams and Pub/Sub event pipeline
+- WebSocket-based real-time orderbook and trade updates
+- Margin, leverage, liquidation and PnL engine
+- PostgreSQL, Docker, TypeScript
+
+**Live:** https://YOUR_WHITE_ROCK_URL
+
+**Repository:** https://github.com/YOUR_REPO
 
 ---
 
-## Things I'm interested in
+### ReviewPilot — AI Code Reviewer
 
-- AI Engineering
-- Distributed Systems
-- Backend Infrastructure
-- LLM Agents
-- Event Driven Architectures
-- Developer Tools
-- Real-time Systems
+AI-powered GitHub code reviewer that automatically reviews pull requests using LLMs.
+
+- GitHub App with webhook architecture
+- Event-driven workers
+- RAG pipeline for repository context
+- Automated review comments on pull requests
+- Dockerized services
+
+**Live:** https://YOUR_REVIEWPILOT_URL
+
+**Repository:** https://github.com/YOUR_REPO
 
 ---
 
-## Currently Working on
+### Capturely
 
-I'm currently going deeper into
+Real-time virtual photoshoot platform.
 
-- Agentic AI Systems
-- ASTs & Code Intelligence
-- Context Engineering
+- React Native (Expo)
+- LiveKit (WebRTC)
+- Real-time collaborative sessions
+- State management with Zustand
+
+---
+
+## Awards
+
+- Winner — CodeBits 3.0 Hackathon
+- Winner — ETHGlobal HackFS
+- Finalist — Web3 INIT
+
+## Technologies
+
+TypeScript • Node.js • React • Next.js • React Native • Express • PostgreSQL • Redis • Docker • AWS • OpenAI • RAG • LiveKit • WebSockets
+
+## Currently Exploring
+
+- Agentic AI
+- Code Intelligence
 - Kubernetes
+- Distributed Systems
+- Context Engineering
 - Cloud Infrastructure
-- Scalable System Design
 
----
+## Links
 
+Portfolio: https://adarshmore.netlify.app
 
-## Find me
+GitHub: https://github.com/AdarshVMore
 
-Portfolio → https://adarshmore.netlify.app
+LinkedIn: https://linkedin.com/in/adarsh-v-more
 
-LinkedIn → https://linkedin.com/in/adarsh-v-more
+X: https://x.com/Adarsh_VMore
 
-Twitter/X → https://x.com/Adarsh_VMore
+Resume: https://YOUR_RESUME_URL
 
-Email → adarshv.more18@gmail.com
+Email: adarshv.more18@gmail.com
