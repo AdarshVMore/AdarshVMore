@@ -26,10 +26,6 @@ NFT marketplace built on Polygon with Solidity smart contracts, IPFS-based stora
 
 ---
 
-<p align="left">
-  <img src="https://giphy.com/gifs/kJ1iL1ZQIyibu" width="850"/>
-</p>
-
 ## Where I've worked
 
 - **Ellenox** — Fullstack Developer (Jun 2025–present)
