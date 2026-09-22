@@ -28,7 +28,9 @@ NFT marketplace built on Polygon with Solidity smart contracts, IPFS-based stora
 
 ## Where I've worked
 
-- **Ellenox** — Fullstack Developer (Jun 2025–present)
+- **Atcon Global** — Fullstack AI Engineer (Sept 2025–present)
+- **100xSchool** — AI Engineer Trainee (May 2025–Dec 2025)
+- **Ellenox** — Fullstack Developer (Jun 2025–Jun 2026)
 - **AcadeEasy** — Fullstack Dev Intern — rebuilt a monolith into isolated auth/content/analytics microservices, cut deploy overhead 50%
 - **Loop of Infinity** — Frontend & Blockchain Intern — DeFi staking/vesting/token-sale platform, 1000+ users onboarded, $20K+ processed
 
